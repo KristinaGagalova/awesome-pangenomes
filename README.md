@@ -11,7 +11,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 # Toolkits
 
-* [odgi](https://github.com/pangenome/odgi) Fast toolkit based on odgi format :rocket:
+* [odgi](https://github.com/pangenome/odgi) Fast toolkit based on odgi format. :rocket:
 * [vg](https://github.com/vgteam/vg) Full featured construction, mapping and SNP calling toolkit based on multiple formats. :rocket:
 * [gaftools](https://github.com/marschall-lab/gaftools) Toolkit for GAF (Graph Alignment Format) sorting and manipulation.
 * [gfakluge](https://github.com/edawson/gfakluge) Toolkit and c++ API for GFA manipulation
